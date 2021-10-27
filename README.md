@@ -12,3 +12,5 @@ Proficient in:
 [![Resume](https://img.shields.io/badge/resume-black?logo=notion&logoColor=white)](https://bit.ly/seonghyeon)
 [![Tech Blog](https://img.shields.io/badge/tech_blog-black?logo=github)](https://sh-cho.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seonghyeoncho/)
+[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghssh1)](https://solved.ac/ghssh1)
+
