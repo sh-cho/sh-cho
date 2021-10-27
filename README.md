@@ -1,3 +1,5 @@
+<img align="right" src="https://user-images.githubusercontent.com/11611397/139045685-1fde3dbd-3b19-49ca-8adf-44bbd7a9485c.gif" />
+
 Proficient in: 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B)
