@@ -12,8 +12,7 @@ Proficient in:
 ---
 
 [![Resume](https://img.shields.io/badge/resume-black?logo=notion&logoColor=white)](https://bit.ly/seonghyeon)
-[![Old Blog](https://img.shields.io/badge/blog(old)-black?logo=kakao&logoColor=white)](https://torbjorn.tistory.com/)
-[![New Blog](https://img.shields.io/badge/blog(new)-black?logo=github)](https://sh-cho.github.io/)
+[![Blog](https://img.shields.io/badge/blog-black?logo=github)](https://sh-cho.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/seonghyeoncho/)
 [![Codeforces](https://img.shields.io/badge/dynamic/json?&color=03A89E&logoColor=white&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/ghssh&query=%24.rating&cacheSeconds=259200)](https://codeforces.com/profile/ghssh)
 [![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghssh1)](https://solved.ac/ghssh1)
