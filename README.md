@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/11611397/139045685-1fde3dbd-3b19-49ca-8adf-44bbd7a9485c.gif" />
 
-Proficient in: 
+I'm good at
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B)
 ![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white)
